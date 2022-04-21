@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/VectorAdd/.vs/VectorAdd/v17
+/common/data
+/VectorAdd/VectorAdd/x64/Debug
+/VectorAdd/x64/Debug
+/VectorAdd/VectorAdd/VectorAdd.vcxproj.user
+/VectorAdd/VectorAdd/VectorAdd.vcxproj.filters
+/VectorAdd/VectorAdd/VectorAdd.vcxproj
